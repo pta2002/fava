@@ -9,6 +9,8 @@
 /frontend/coverage/
 /src/fava/static/*
 !/src/fava/static/favicon.ico
+!/src/fava/static/manifest.json
+!/src/fava/static/maskable_icon.png
 /src/fava/translations/messages.pot
 /src/fava.egg-info
 /htmlcov

@@ -1,0 +1,22 @@
+{
+  "name": "Fava",
+  "short_name": "Fava",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#205081",
+  "theme_color": "#0065a3",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/static/favicon.ico",
+      "sizes": "512x512 256x256 128x128 64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/static/maskable_icon.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
